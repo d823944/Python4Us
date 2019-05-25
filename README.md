@@ -2,11 +2,12 @@
 
 ### 實力檢測
 LeetCode程式解題系統   
-https://leetcode.com/
+https://leetcode.com/    
+教育部ITSA 線上程式設計競賽   
+http://e-tutor.itsa.org.tw/e-Tutor/   
 
 ### Book List
 - 從零開始學Python
-- 給中小學生的Python：初學程式設計也能快速上手
 - TQC+ Python 3.x 程式語言特訓教材(第二版)
 - 運算思維與Python程式設計：含Microsoft MTA國際認證軟體研發工程師：Python程式語言核心能力(Exam 98-381)
 - APCS大學程式設計先修檢測：Python超效解題致勝祕笈
