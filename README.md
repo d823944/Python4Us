@@ -3,8 +3,6 @@
 ### 實力檢測
 LeetCode程式解題系統   
 https://leetcode.com/    
-教育部ITSA 線上程式設計競賽   
-http://e-tutor.itsa.org.tw/e-Tutor/   
 
 ### Book List
 - 從零開始學Python
