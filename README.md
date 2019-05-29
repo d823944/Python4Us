@@ -9,7 +9,6 @@ http://e-tutor.itsa.org.tw/e-Tutor/
 ### Book List
 - 從零開始學Python
 - TQC+ Python 3.x 程式語言特訓教材(第二版)
-- 運算思維與Python程式設計：含Microsoft MTA國際認證軟體研發工程師：Python程式語言核心能力(Exam 98-381)
 - APCS大學程式設計先修檢測：Python超效解題致勝祕笈
 
 ### Part I - Python Basics
