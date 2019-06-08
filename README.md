@@ -15,8 +15,8 @@ https://leetcode.com/
 ### Part I - Python Basics
 - A. 基本程式設計
 - B. 用if和else來提問
-- C. 迴圈
-- D. 使用函式來重複使用你的程式碼
-- E. 串列、數組
-- F. 詞典、集合    
-- G. 字串
+- C. 迴圈(for, while, continue, break)
+- D. 使用函式(function)來重複使用你的程式碼
+- E. 串列(list)、數組(tuple)
+- F. 詞典(dictionary)、集合(set)    
+- G. 字串(string)
