@@ -1,7 +1,10 @@
 ## Python4Us
 
 ### 實力檢測
-LeetCode程式解題系統   
+- 教育部程式自學平台 & ITSA線上程式設計競賽   
+https://e-tutor.itsa.org.tw/e-Tutor/   
+
+- LeetCode程式解題系統   
 https://leetcode.com/    
 
 ### Book List
