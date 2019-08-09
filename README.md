@@ -27,5 +27,5 @@ https://zerojudge.tw/
 
 ### Part 2 - ITSA線上程式競賽基礎題目
 
-### Part 3 - 基礎演算法 & APCS考古題
+### Part 3 - 基礎資料結構/演算法 & APCS考古題
 
